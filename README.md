@@ -1,5 +1,5 @@
-#Dasmoto's Artts & Craft#
-##Introduction##
-Codecademy project assignments
-##Technology##
-HTML & CSS
+# Dasmoto's Arts & Craft#
+## Introduction##
+### Codecademy project assignments
+## Technology##
+### HTML & CSS
